@@ -22,9 +22,7 @@
 ## Few-shot Object Detection
 
 - [JPRS2022] Generalized few-shot object detection in remote sensing images [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271622003197)][Code](https://github.com/RSer-XDU/G-FSDet)]
-- 
 
 ## Few-shot Domain Generalization
 
-- [CVPRW2023] APPLeNet: Visual Attention Parameterized Prompt Learning for Few-Shot Remote Sensing Image Generalization using CLIP [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/papers/Jha_APPLeNet_Visual_Attention_Parameterized_Prompt_Learning_for_Few-Shot_Remote_Sensing_CVPRW_2023_paper.pdf)][Code](https://github.com/
-mainaksingha01/APPLeNet)]
+- [CVPRW2023] APPLeNet: Visual Attention Parameterized Prompt Learning for Few-Shot Remote Sensing Image Generalization using CLIP [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/papers/Jha_APPLeNet_Visual_Attention_Parameterized_Prompt_Learning_for_Few-Shot_Remote_Sensing_CVPRW_2023_paper.pdf)][Code](https://github.com/mainaksingha01/APPLeNet)]
