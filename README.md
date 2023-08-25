@@ -28,9 +28,9 @@
 
 
 ## DataSet
-- NWPU-RESISC45: 31500 images of 45 scene classes (700 per image/class) [Link](https://gcheng-nwpu.github.io/#Datasets)
-- AID: 31500 images of 30 scene classes (200~400 per image/class) [Link](https://captain-whu.github.io/AID)
-- UCM: 2100 RS scenes images of 21 classes (100 per image/class) [Link](https://figshare.com/articles/dataset/UCM_image_dataset/6085976)
+- NWPU-RESISC45: 31500 images of 45 scene classes (700 per image/class) [[Link](https://gcheng-nwpu.github.io/#Datasets)]
+- AID: 31500 images of 30 scene classes (200~400 per image/class) [[Link](https://captain-whu.github.io/AID)]
+- UCM: 2100 RS scenes images of 21 classes (100 per image/class) [[Link](https://figshare.com/articles/dataset/UCM_image_dataset/6085976)]
 
 ## DataSplit (Train, Val, and Test)
 - [TGRS2023] Refer to Table I [[Paper](https://ieeexplore.ieee.org/abstract/document/10168957)]
