@@ -17,7 +17,6 @@
 - [TGRS2023] Foreground-background contrastive learning for few-shot remote sensing image scene classification [[Paper](https://ieeexplore.ieee.org/abstract/document/10168183)]
 - [TGRS2023] Multiform ensemble self-supervised learning for few-shot remote sensing scene classification [[Paper](https://ieeexplore.ieee.org/abstract/document/10006829)]
 - [TGRS2023] Multi-pretext-task prototypes guided dynamic contrastive learning network for few-shot remote sensing scene classification [[Paper](https://ieeexplore.ieee.org/abstract/document/10168957)]
-- 
 
 ## Few-shot Object Detection
 
@@ -26,3 +25,12 @@
 ## Few-shot Domain Generalization
 
 - [CVPRW2023] APPLeNet: Visual Attention Parameterized Prompt Learning for Few-Shot Remote Sensing Image Generalization using CLIP [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/papers/Jha_APPLeNet_Visual_Attention_Parameterized_Prompt_Learning_for_Few-Shot_Remote_Sensing_CVPRW_2023_paper.pdf)][Code](https://github.com/mainaksingha01/APPLeNet)]
+
+
+## DataSet
+- NWPU-RESISC45: 31500 images of 45 scene classes (700 per image/class) [Link](https://gcheng-nwpu.github.io/#Datasets)
+- AID: 31500 images of 30 scene classes (200~400 per image/class) [Link](https://captain-whu.github.io/AID)
+- UCM: 2100 RS scenes images of 21 classes (100 per image/class) [Link](https://figshare.com/articles/dataset/UCM_image_dataset/6085976)
+
+## DataSplit (Train, Val, and Test)
+- [TGRS2023] Refer to Table I [[Paper](https://ieeexplore.ieee.org/abstract/document/10168957)]
