@@ -1,4 +1,4 @@
-A collection of surveys and papers, some of which include source code, pertaining to studies related to few-shot learning in the field of remote sensing.
+A collection of surveys and papers, some of which include source code, pertaining to studies related to few-shot learning in remote sensing field.
 
 ## Survey
 
