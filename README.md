@@ -1,3 +1,5 @@
+A collection of surveys and papers, some of which include source code, pertaining to studies related to few-shot learning in the field of remote sensing.
+
 ## Survey
 
 - [JSTARS2021] Research Progress on Few-Shot Learning for Remote Sensing Image Interpretation [[Paper](https://ieeexplore-ieee-org-s.vpn.buaa.edu.cn:8118/document/9328476)]
